@@ -244,7 +244,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import MapView, { Marker, PROVIDER_APPLE } from 'react-native-maps';
 import { Picker } from '@react-native-picker/picker';
 import Constants from 'expo-constants';
-import colors from '../Themes/colors'; // import colors.js
+import colors from '../Themes/colors'; 
 
 const API_BASE_URL = Constants.expoConfig.extra.API_BASE_URL;
 const statuses = ["Yet not Accepted", "Accepted", "Rejected"];
