@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Electrician-Panel",
+    "slug": "my-native-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/mechifyLogo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/mechifyLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/mechifyLogo.png",
+        "backgroundColor": "black"
+      }
+    },
+    "web": {
+      "favicon": "./assets/mechifyLogo.png"
+    }
+  }
+}
